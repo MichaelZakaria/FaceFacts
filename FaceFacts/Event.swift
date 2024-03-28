@@ -10,9 +10,9 @@ import SwiftData
 
 @Model
 class Event {
-    var name: String
-    var Location: String
-    var people = [Person]()
+    var name: String = ""
+    var Location: String = ""
+    var people: [Person]? = [Person]()
     
     init(name: String, Location: String) {
         self.name = name
