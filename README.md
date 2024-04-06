@@ -16,6 +16,6 @@
 
 - Example :<br>
 <p align="center">
-  <img src="https://github.com/MichaelZakaria/FaceFacts/assets/65913937/d574f79c-86af-4540-ac67-15a63ace62a6" width="400" height="680"/>
+  <img src="https://github.com/MichaelZakaria/FaceFacts/assets/65913937/d574f79c-86af-4540-ac67-15a63ace62a6" width="400" height="720"/>
 </p>
 
